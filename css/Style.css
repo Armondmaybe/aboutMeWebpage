@@ -1,0 +1,85 @@
+body{
+    background-color:white;
+    text-align: center;
+    color:black;
+    margin:0px;
+}
+
+.top-container{
+    background-color: #ee6f57;
+}
+#greeting{
+    color:white;
+}
+#jobTitle{    
+    color:white;
+    line-height: 2;
+}
+#cloudOne{
+    position: relative;;
+    left:423px;
+}
+
+#cloudTwo{
+    position: absolute;
+}
+
+#greetings{
+    line-height: 2;
+}
+
+.greetingPic{
+    border-radius: 55%;
+} 
+.skills{
+    margin-top: 82.2px;
+    margin-bottom: 0px;
+    
+   
+}
+.skill-row{
+    width:50%;
+    margin:100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+    padding: 57px;
+}
+.computerImg{
+    width:25%;
+    float:left;
+    margin-right:30px;
+    border-radius: 55%;
+
+    
+}
+.chillyImg{
+    width:25%;
+    float:right;
+    margin-left: 30px;
+    border-radius: 55%;
+
+
+
+}
+hr{
+    border: none;
+    
+    
+}
+.contact-me{
+padding-top: 56px;
+}
+.btn{
+    background: #000000;
+    border-radius: 8px;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+}
+.bottom-container{
+    margin-top: 25px;
+    background-color: #ee6f57;
+    padding: 50px 0px 20px;
+
+}
